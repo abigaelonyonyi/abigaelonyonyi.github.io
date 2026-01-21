@@ -5,7 +5,7 @@
 layout: home
 author_profile: true
 ---
-# Curriculum Vitae - Abiagel Onyonyi
+# Curriculum Vitae - Abigael Onyonyi
 
 
 ## 🎓 Education
