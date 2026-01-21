@@ -6,7 +6,7 @@ layout: home
 author_profile: true
 ---
 # Curriculum Vitae - Abigael Onyonyi
-[Download My CV]({{ site.baseurl }}/assets/docs/abigael shinel's cv.pdf){: .btn .btn--info}
+<a href="{{ site.baseurl }}/assets/docs/abigael shinel's cv.pdf" target="_blank" class="btn btn--info">View CV (PDF)</a>
 
 
 ## 🎓 Education
