@@ -6,6 +6,9 @@ layout: home
 author_profile: true
 ---
 # Curriculum Vitae - Abigael Onyonyi
+cv-sidebar:
+  - title: "Download CV"
+    url: /assets/docs/my-cv.pdf
 
 
 ## 🎓 Education
