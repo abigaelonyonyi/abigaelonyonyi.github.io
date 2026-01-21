@@ -6,7 +6,7 @@ layout: home
 author_profile: true
 ---
 # Curriculum Vitae - Abigael Onyonyi
-
+ 
 ## 🎓 Education
 **Bachelor of Science in Information Technology**  
 *Mount Kenya University* — *2024*  
