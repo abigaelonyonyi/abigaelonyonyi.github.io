@@ -1,11 +1,8 @@
 ---
 title: "Intro To Network Traffic Analysis"
-last_modified_at: 2026-02-19
-categories:
-  - Blog
-tags:
-    **tcpdump**
-    **wireshark**
+date: 2026-02-19
+categories: [CyberSecurity]
+tags: [tcpdump wireshark]
 ---
 
 Network Traffic Analysis is the process of capturing, monitoring, and network data. In this post we'll explore **Wireshark** and **tcp dump**
