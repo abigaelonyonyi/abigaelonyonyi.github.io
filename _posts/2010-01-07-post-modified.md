@@ -4,8 +4,8 @@ last_modified_at: 2026-02-19
 categories:
   - Blog
 tags:
-  - **tcpdump**
-  - **wireshark**
+    **tcpdump**
+    **wireshark**
 ---
 
 Network Traffic Analysis is the process of capturing, monitoring, and network data. In this post we'll explore **Wireshark** and **tcp dump**
