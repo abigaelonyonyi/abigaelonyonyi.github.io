@@ -5,6 +5,9 @@
 layout: home
 author_profile: true
 ---
+
+**Download my CV:**
+ [Download My Resume](/assets/Abigael Shinel's CV.pdf)
  
 ## 🎓 Education
 **Bachelor of Science in Information Technology**  
